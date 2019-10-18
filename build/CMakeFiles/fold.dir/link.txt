@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/fold.dir/source/main.cpp.o CMakeFiles/fold.dir/source/mefolder.cpp.o  -o fold -rdynamic 

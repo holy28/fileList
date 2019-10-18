@@ -1,0 +1,3 @@
+/home/melux/wanglj/fold/build/CMakeFiles/edit_cache.dir
+/home/melux/wanglj/fold/build/CMakeFiles/rebuild_cache.dir
+/home/melux/wanglj/fold/build/CMakeFiles/fold.dir

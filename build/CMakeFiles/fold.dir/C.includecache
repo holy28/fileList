@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melux/wanglj/fold/source/main.c
+stdio.h
+/home/melux/wanglj/fold/source/stdio.h
+mefolder.h
+/home/melux/wanglj/fold/source/mefolder.h
+
+/home/melux/wanglj/fold/source/mefolder.h
+

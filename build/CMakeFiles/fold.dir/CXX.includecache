@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melux/wanglj/fold/source/main.cpp
+mefolder.h
+/home/melux/wanglj/fold/source/mefolder.h
+
+/home/melux/wanglj/fold/source/mefolder.cpp
+stdio.h
+-
+string.h
+-
+dirent.h
+-
+vector
+-
+iostream
+-
+mefolder.h
+/home/melux/wanglj/fold/source/mefolder.h
+
+/home/melux/wanglj/fold/source/mefolder.h
+stdio.h
+-
+string.h
+-
+dirent.h
+-
+vector
+-
+iostream
+-
+
